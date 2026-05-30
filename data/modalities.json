@@ -1,0 +1,6 @@
+[
+  { "key": "presencial" },
+  { "key": "semipresencial" },
+  { "key": "aula_virtual" },
+  { "key": "teleformacion" }
+]

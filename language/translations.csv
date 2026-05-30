@@ -1,0 +1,137 @@
+﻿key;Español;English;Portugês;Français;Deutsch;Italiano;日本語;Nyan
+app_title;PinkCat AutoCalendario;PinkCat AutoCalendar;PinkCat AutoCalendário;PinkCat AutoCalendrier;PinkCat AutoKalender;PinkCat AutoCalendario;PinkCat 自動カレンダー;PinkCat AutoNyaandario
+layout_indicator;Diseño;Layout;Layout;Mise en page;Layout;Layout;レイアウト;Nyayout
+nav_today;Hoy;Today;Hoje;Aujourd'hui;Heute;Oggi;今日;Nyaan
+nav_year_prev;◀ Año;◀ Year;◀ Ano;◀ Année;◀ Jahr;◀ Anno;◀ 前年;◀ Nyaan
+nav_year_next;Año ▶;Year ▶;Ano ▶;Année ▶;Jahr ▶;Anno ▶;次年 ▶;Nyaan ▶
+nav_dark_mode;Oscuro;Dark;Escuro;Sombre;Dunkel;Scuro;ダークモード;Nyan-miau
+month_january;Enero;January;Janeiro;Janvier;Januar;Gennaio;1月;Nyan-1
+month_february;Febrero;February;Fevereiro;Février;Februar;Febbraio;2月;Nyan-2
+month_march;Marzo;March;Março;Mars;März;Marzo;3月;Nyan-3
+month_april;Abril;April;Abril;Avril;April;Aprile;4月;Nyan-4
+month_may;Mayo;May;Maio;Mai;Mai;Maggio;5月;Nyan-5
+month_june;Junio;June;Junho;Juin;Juni;Giugno;6月;Nyan-6
+month_july;Julio;July;Julho;Juillet;Juli;Luglio;7月;Nyan-7
+month_august;Agosto;August;Agosto;Août;August;Agosto;8月;Nyan-8
+month_september;Septiembre;September;Setembro;Septembre;September;Settembre;9月;Nyan-9
+month_october;Octubre;October;Outubro;Octobre;Oktober;Ottobre;10月;Nyan-10
+month_november;Noviembre;November;Novembro;Novembre;November;Novembre;11月;Nyan-11
+month_december;Diciembre;December;Dezembro;Décembre;Dezember;Dicembre;12月;Nyan-12
+weekday_mon;Lun;Mon;Seg;Lun;Mo;Lun;月;Mrr
+weekday_tue;Mar;Tue;Ter;Mar;Di;Mar;火;Meow
+weekday_wed;Mié;Wed;Qua;Mer;Mi;Mer;水;Purr
+weekday_thu;Jue;Thu;Qui;Jeu;Do;Gio;木;Nya
+weekday_fri;Vie;Fri;Sex;Ven;Fr;Ven;金;Nyan
+weekday_sat;Sáb;Sat;Sáb;Sam;Sa;Sab;土;Miau
+weekday_sun;Dom;Sun;Dom;Dim;So;Dom;日;Rawr
+panel_title;Cursos este mes;Courses this month;Cursos este mês;Cours ce mois-ci;Kurse diesen Monat;Corsi questo mese;今月のコース;Nyans este mes-miau
+panel_empty;Sin cursos este mes.;No courses this month.;Sem cursos este mês.;Aucun cours ce mois-ci.;Keine Kurse diesen Monat.;Nessun corso questo mese.;今月のコースはありません。;Sin nyans este mes, purr...
+panel_add;📋 Acción formativa;📋 Add course;📋 Ação de formação;📋 Action de formation;📋 Schulung;📋 Azione formativa;📋 研修追加;📋 Nyan formativo
+panel_edit;✏️Editar;✏️Edit;✏️Editar;✏️Modifier;✏️Bearbeiten;✏️Modifica;✏️編集;✏️Meow-dificar
+panel_delete;🗑 Eliminar;🗑 Delete;🗑 Excluir;🗑 Supprimer;🗑 Löschen;🗑 Elimina;🗑 削除;🗑 Nyan-liminar
+status_active_courses;curso(s) activos en;active course(s) in;curso(s) ativos em;cours actif(s) dans;aktive(r) Kurs(e) in;corso(i) attivo(i) in;のアクティブなコース;nyan(s) activos en-miau
+status_sessions;sesión(es);session(s);sessão(ões);session(s);Sitzung(en);sessione(i);セッション;miau-sesión(es)
+status_conflicts;conflicto(s);conflict(s);conflito(s);conflit(s);Konflikt(e);conflitto(i);競合;miau-conflicto(s)
+dialog_new_title;Nueva Acción Formativa;New Training Action;Nova Ação Formativa;Nouvelle action de formation;Neue Schulungsmaßnahme;Nuova azione formativa;新しい研修アクション;Nueva Nyan-Formativa
+dialog_edit_title;Editar Acción Formativa;Edit Training Action;Editar Ação Formativa;Modifier l’action de formation;Schulungsmaßnahme bearbeiten;Modifica azione formativa;研修アクションを編集;Editar Nyan-Formativa
+dialog_section_details;Datos del curso;Course details;Dados del curso;Détails du cours;Kursdetails;Dettagli del corso;コース詳細;Datos del miau-curso
+dialog_name;Nombre del curso;Course name;Nome do curso;Nom du cours;Kursname;Nome del corso;コース名;Nombre del nyan
+dialog_location;Lugar;Location;Local;Lieu;Ort;Luogo;場所;Nyan-calización
+dialog_company;Empresa;Company;Empresa;Entreprise;Firma;Azienda;企業;Miaupresa
+dialog_shift;Turno;Shift;Turno;Équipe;Schicht;Turno;シフト;Nyan-turno
+dialog_start_time;Hora entrada (ej: 8.5);Start time (e.g. 8.5);Hora de entrada (ex: 8.5);Heure d'entrée (ex: 8.5);Anfangszeit (z.B. 8.5);Ora di ingresso (es: 8.5);開始時間 (例: 8.5);Hora entrada purr (ej: 8.5)
+dialog_end_time;Hora salida (ej: 14.5);End time (e.g. 14.5);Hora de saída (ex: 14.5);Heure de sortie (ex: 14.5);Endzeit (z.B. 14.5);Ora di uscita (es: 14.5);終了時間 (例: 14.5);Hora salida miau (ej: 14.5)
+dialog_total_hours;Horas totales;Total hours;Horas totais;Heures totales;Gesamtstunden;Ore totali;合計時間;Horas nyantales
+dialog_start_date;Fecha inicio;Start date;Data de início;Date de début (AAAA-MM-JJ);Startdatum;Data di inizio;開始日;Fecha miau-inicio
+dialog_teaching_days;Días lectivos;Teaching days;Dias letivos;Jours d'enseignement;Unterrichtstage;Giorni di lezione;授業日;Días lectivos-purr
+dialog_specific_holidays;Festivos específicos;Course-specific holidays;Feriados específicos;Jours fériés spécifiques;Kursspezifische Feiertage;Festività specifiche;特定の祝日;Miau-festivos específicos
+dialog_holidays_hint;Fechas separadas por coma (YYYY-MM-DD, ...);Comma-separated dates (YYYY-MM-DD, ...);Datas separadas por vírgula (YYYY-MM-DD, ...);Dates séparées por des virgules (AAAA-MM-JJ, ...);Kommagetrennte Daten (JJJJ-MM-TT, ...);Date separate da virgole (AAAA-MM-GG, ...);カンマ区切りの日付 (YYYY-MM-DD, ...);Fechas con miau-comas (YYYY-MM-DD, ...)
+dialog_modality;Modalidad;Modality;Modalidade;Modalité;Modalität;Modalità;受講形態;Nyan-modalidad
+modality_presencial;Presencial;In-person;Presencial;Présentiel;Präsenz;In presenza;対面;Nyan-presencial
+modality_semipresencial;Semipresencial;Blended;Semipresencial;Semi-présentiel;Hybrid;Semipresenziale;対面+オンライン;Nyan-semi
+modality_aula_virtual;Aula Virtual;Virtual Classroom;Aula Virtual;Classe virtuelle;Virtueller Unterricht;Aula virtuale;バーチャル教室;Nyan-virtual
+modality_teleformacion;Teleformación;E-learning;Teleformação;Téléformation;E-Learning;Teleformazione;eラーニング;Nyan-tele
+dialog_save;Guardar;Save;Salvar;Enregistrer;Speichern;Salva;保存;Guardar-purr
+dialog_cancel;Cancelar;Cancel;Cancelar;Annuler;Abbrechen;Annulla;キャンセル;Cancelar-miau
+shift_morning;Mañana;Morning;Manhã;Matin;Morgen;Mattina;午前;Mañana-miau
+shift_afternoon;Tarde;Afternoon;Tarde;Après-midi;Nachmittag;Pomeriggio;午後;Tarde-purr
+shift_other;Otros;Other;Outros;Autres;Andere;Altri;その他;Otros nyans
+shift_morning_abbrev;M;M;M;M;M;M;朝;Miau
+shift_afternoon_abbrev;T;A;T;A;N;P;昼;Purr
+shift_other_abbrev;O;O;O;A;A;A;他;Nya
+error_name_required;El nombre del curso es obligatorio.;Course name is required.;O nome do curso é obrigatório.;Le nom du cours est obligatoire.;Der Kursname ist obligatorisch.;Il nome del corso è obbligatorio.;コース名は必須です。;¡El nombre del nyan es miau-obligatorio, purr!
+error_start_time;Hora de entrada inválida (usa formato decimal ej: 8.5).;Invalid start time (use decimal format e.g. 8.5).;Hora de entrada inválida (use o formato decimal ex: 8.5).;Heure d'entrée invalide (utilisez le format décimal ex: 8.5).;Ungültige Anfangszeit (Dezimalformat verwenden, z.B. 8.5).;Ora di ingresso non valida (usa il formato decimale es: 8.5).;開始時間が無効です (10進数形式を使用してください 例: 8.5)。;Hora entrada rota, miau (usa decimal ej: 8.5).
+error_end_time;Hora de salida inválida.;Invalid end time.;Hora de saída inválida.;Heure de sortie invalide.;Ungültige Endzeit.;Ora di uscita non valida.;終了時間が無効です。;Hora salida incorrecta, purr.
+error_time_order;La hora de salida debe ser mayor que la de entrada.;End time must be greater than start time.;A hora de saída deve ser maior que a hora de entrada.;Le heure de sortie doit être supérieure à l'heure d'entrée.;Die Endzeit muss nach la Anfangszeit liegen.;L'ora di uscita deve essere successiva all'ora di ingresso.;終了時間は開始時間より後でなければなりません。;La salida debe ser después del miau-entrada, rawr.
+error_total_hours;Las horas totales deben ser un número positivo.;Total hours must be a positive number.;As horas totais devem ser um número positivo.;Les heures totales doivent être un nombre positif.;Die Gesamtstunden müssen eine positive Zahl sein.;Le ore totali devono essere un numero positivo.;合計時間は正の数でなければなりません。;Las horas nyantales deben ser positivas, miau.
+error_start_date;Fecha de inicio inválida (formato esperado: YYYY-MM-DD).;Invalid start date (expected format: YYYY-MM-DD).;Data de início inválida (formato esperado: YYYY-MM-DD).;Date de début invalide (format attendu : AAAA-MM-JJ).;Ungültiges Startdatum (erwartetes Format: JJJJ-MM-TT).;Data di inizio non valida (formato atteso: AAAA-MM-GG).;開始日が無効です (推奨形式: YYYY-MM-DD)。;Miau-fecha de inicio rota (esperado: YYYY-MM-DD).
+error_no_teaching_days;Debe haber al menos un día lectivo marcado.;At least one teaching day must be selected.;Deve haver pelo menos um dia letivo selecionado.;Au moins un jour d'enseignement doit être sélectionné.;Es muss mindestens ein Unterrichtstag ausgewählt werden.;Deve essere selezionato almeno un giorno di lezione.;最低1つの授業日を選択する必要があります。;Pon al menos un miau-día lectivo, ¡purr!
+error_holiday_format;Formato de fecha incorrecto en festivos:;Invalid holiday date format:;Formato de data incorreto nos feriados:;Format de date incorrect pour les jours fériés :;Falsches Datumsformat bei Feiertagen:;Formato data errato nelle festività:;祝日の日付形式が正しくありません:;Miau-formato de fecha roto en festivos, miau:
+error_form_title;Errores en el formulario;Form errors;Erros no formulário;Erreurs dans le formulaire;Formularfehler;Errori nel modulo;フォームエラー;Errores miau-graves en el formulario
+error_course_not_found;Curso no encontrado.;Course not found.;Curso não encontrado.;Cours non trouvé.;Kurs nicht gefunden.;Corso non trovato.;コースが見つかりません。;Nyan no encontrado, ssshh...
+confirm_delete_title;Eliminar curso;Delete course;Excluir curso;Supprimer le cours;Kurs löschen;Elimina corso;コース削除;Nyan-liminar curso
+confirm_delete_msg;¿Seguro que quieres eliminar '{name}'? Esta acción no se puede deshacer.;Are you sure you want to delete '{name}'? This action cannot be undone.;Tem certeza de que deseja excluir '{name}'? Esta ação não pode ser desfeita.;Êtes-vous sûr de vouloir supprimer '{name}' ? Cette action est irréversible.;Sind Sie sicher, dass Sie '{name}' löschen möchten? Dieser Vorgang kann nicht rückgängig gemacht werden.;Sei sicuro di voler eliminare '{name}'? Questa azione non può essere annullata.;本当に '{name}' を削除しますか？この操作は取り消せません。;¿Seguro que quieres nyan-liminar '{name}'? No hay marcha atrás, miau.
+popup_close;Cerrar;Close;Fechar;Fermer;Schließen;Chiudi;閉じる;Cerrar-miau
+warning_courses_read;No se pudo leer courses.json:;Could not read courses.json:;Não foi possível ler courses.json:;Impossible de lire courses.json :;courses.json konnte nicht gelesen werden:;Impossibile leggere courses.json:;courses.json を読み込めませんでした:;No se pudo leer el miau-archivo courses.json, purr:
+error_courses_save;No se pudo guardar courses.json:;Could not save courses.json:;Não foi possível salvar courses.json:;Impossible d'enregistrer courses.json :;courses.json konnte nicht gespeichert werden:;Impossibile salvare courses.json:;courses.json を保存できませんでした:;No se pudo guardar el miau-archivo courses.json, rawr:
+warning_title;Aviso;Warning;Aviso;Avertissement;Warnung;Avviso;警告;Miau-aviso
+error_title;Error;Error;Erro;Erreur;Fehler;Errore;エラー;Miau-error
+panel_year_title;Otros cursos del año;Other courses this year;Outros cursos do ano;Autres cours de l'année;Weitere Kurse in diesem Jahr;Altri corsi dell'anno;今年のその他のコース;Otros miau-nyans de este año
+panel_year_empty;Sin cursos este año.;No courses this year.;Sem cursos este ano.;Aucun cours cette année.;Keine Kurse in diesem Jahr.;Nessun corso quest'anno.;今年のコースはありません。;Sin miau-cursos este año, purr.
+tab_calendar;Calendario;Calendar;Calendário;Calendrier;Kalender;Calendario;カレンダー;Nyaandario
+tab_courses;Cursos;Courses;Cursos;Cours;Kurse;Corsi;コース;Nyans
+tab_companies;Empresas;Companies;Empresas;Entreprises;Firmen;Aziende;企業;Miaupresas
+tab_holidays;Festivos;Holidays;Feriados;Jours fériés;Feiertage;Festività;祝日;Miau-festivos
+catalog_new;Nuevo curso;New Course;Novo curso;Nouveau cours;Neuer Kurs;Nuovo corso;新しいコース;Nuevo nyan-curso
+catalog_edit;Editar curso;Edit Course;Editar curso;Modifier le cours;Kurs bearbeiten;Modifica corso;コースを編集;Editar nyan-curso
+catalog_name;Nombre del curso;Course name;Nome do curso;Nom du cours;Kursname;Nome del corso;コース名;Nombre del nyan
+catalog_total_hours;Horas totales;Total hours;Horas totais;Heures totales;Gesamtstunden;Ore totali;合計時間;Horas nyantales
+catalog_description;Descripción;Description;Descrição;Description;Beschreibung;Descrizione;説明;Nyan-scripción
+company_new;Nueva empresa;New company;Nova empresa;Nouvelle entreprise;Neue Firma;Nuova azienda;新規企業;Nueva miaupresa
+company_edit;Editar empresa;Edit company;Editar empresa;Modifier l'entreprise;Firma bearbeiten;Modifica azienda;企業編集;Meow-dificar miaupresa
+company_name;Nombre de la empresa;Company name;Nome da empresa;Nom de l'entreprise;Firmenname;Nome dell'azienda;企業名;Nombre de la miaupresa
+company_locations;Localizaciones;Locations;Localizações;Emplacements;Standorte;Posizioni;ロケーション;Nyan-calizaciones
+location_new;Nueva localización;New location;Nova localização;Nouvel emplacement;Neuer Standort;Nuova posizione;新規ロケーション;Nueva nyan-calización
+location_edit;Editar localización;Edit location;Editar localização;Modifier l'emplacement;Standort bearbeiten;Modifica posizione;ロケーション編集;Meow-dificar nyan-calización
+location_name;Nombre de la localización;Location name;Nome da localização;Nom de l'emplacement;Standortname;Nome della posizione;ロケーション名;Nombre de la nyan-calización
+location_address;Dirección;Address;Endereço;Adresse;Adresse;Indirizzo;住所;Nyan-rección
+holiday_new;Nuevo festivo;New holiday;Novo feriado;Nouveau jour férié;Neuer Feiertag;Nuovo giorno festivo;新規祝日;Nuevo miau-festivo
+holiday_edit;Editar festivo;Edit holiday;Editar feriado;Modifier le jour férié;Feiertag bearbeiten;Modifica giorno festivo;祝日編集;Meow-dificar miau-festivo
+holiday_date;Fecha;Date;Data;Date;Datum;Data;日付;Fecha
+holiday_name;Nombre del festivo;Holiday name;Nome do feriado;Nom du jour férié;Name del Feiertags;Nome del festivo;祝日名;Nombre del miau-festivo
+contact_section;Contactos;Contacts;Contatos;Contacts;Kontakte;Contatti;連絡先;Nyan-tactos
+contact_add;➕ Añadir contacto;➕ Add contact;➕ Adicionar contato;➕ Ajouter un contact;➕ Kontakt hinzufügen;➕ Aggiungi contatto;➕ 連絡先を追加;➕ Añadir miau-tacto
+contact_name;Nombre;Name;Nome;Nom;Name;Nome;名前;Nyan-bre
+contact_role;Puesto;Role;Cargo;Poste;Rolle;Ruolo;役職;Miau-puesto
+contact_phone;Teléfono;Phone;Telefone;Téléphone;Telefon;Telefono;電話番号;Nyan-fono
+contact_email;Correo electrónico;Email;E-mail;E-mail;E-Mail;E-mail;メールアドレス;Miau-correo
+table_empty;Sin elementos.;No items yet.;Sem elementos.;Aucun élément.;Keine Elemente.;Nessun elemento.;データがありません。;Sin nyans, purr.
+col_name;Nombre;Name;Nome;Nom;Name;Nome;名前;Nyan-bre
+col_total_hours;Horas totales;Total hours;Horas totais;Heures totales;Gesamtstunden;Ore totali;合計時間;Horas nyantales
+col_description;Descripción;Description;Descrição;Description;Beschreibung;Descrizione;説明;Nyan-scripción
+col_address;Dirección;Address;Endereço;Adresse;Adresse;Indirizzo;住所;Nyan-rección
+col_contacts;Contactos;Contacts;Contatos;Contacts;Kontakte;Contatti;連絡先;Nyan-tactos
+col_locations;Localizaciones;Locations;Localizações;Emplacements;Standorte;Posizioni;ロケーション;Nyan-calizaciones
+col_date;Fecha;Date;Data;Date;Datum;Data;日付;Nyan-fecha
+btn_add_course;📋 Acción formativa;📋 Training activity;📋 Ação de formação;📋 Action de formation;📋 Schulung;📋 Azione formativa;📋 研修活動;📋 Nyan formativo
+btn_add_company;🏢 Empresa;🏢 Company;🏢 Empresa;🏢 Entreprise;🏢 Firma;🏢 Azienda;🏢 企業;🏢 Miaupresa
+btn_add_location;📍 Localización;📍 Location;📍 Localização;📍 Emplacement;📍 Standort;📍 Posizione;📍 ロケーション;📍 Nyan-calización
+btn_add_holiday;🗓 Festivo;🗓 Holiday;🗓 Feriado;🗓 Jour férié;🗓 Feiertag;🗓 Festività;🗓 祝日;🗓 Miau-festivo
+popup_day_monday;Lunes;Monday;Segunda-feira;Lundi;Montag;Lunedì;月曜日;Miau-lunes
+popup_day_tuesday;Martes;Tuesday;Terça-feira;Mardi;Dienstag;Martedì;火曜日;Meow-martes
+popup_day_wednesday;Miércoles;Wednesday;Quarta-feira;Mercredi;Mittwoch;Mercoledì;水曜日;Purr-miércoles
+popup_day_thursday;Jueves;Thursday;Quinta-feira;Jeudi;Donnerstag;Giovedì;木曜日;Nya-jueves
+popup_day_friday;Viernes;Friday;Sexta-feira;Vendredi;Freitag;Venerdì;金曜日;Nyan-viernes
+popup_day_saturday;Sábado;Saturday;Sábado;Samedi;Samstag;Sabato;土曜日;Miau-sábado
+popup_day_sunday;Domingo;Sunday;Domingo;Dimanche;Sonntag;Domenica;日曜日;Rawr-domingo
+col_short_name;Diminutivo;Short name;Nome curto;Diminutif;Kurzname;Diminutivo;略称;Nyan-minutivo
+col_acronym;Acrónimo;Acronym;Acrónimo;Acronyme;Akronym;Acronimo;頭字語;Nyan-crónimo
+btn_add_action;Nueva Acción Formativa;New Training Action;Nova Ação Formativa;Nouvelle action de formation;Neue Schulungsmaßnahme;Nuova azione formativa;新しい研修アクション;Nueva Nyan-Formativa
+action_pending_confirmation;Acción Formativa Pendiente de Confirmar;Training Action Pending Confirmation;Ação Formativa Pendente de Confirmação;Action de formation en attente de confirmation;Schulungsmaßnahme wartet auf Bestätigung;Azione formativa in attesa di conferma;確認待ちの研修アクション;Nyan-formativa pendiente de confirmiau
+catalog_short_name;Nombre Corto;Short Name;Nome Curto;Nom court;Kurzname;Nome breve;短縮名;Nyan-bre corto
+location_map_url;Enlace a Google Maps;Google Maps Link;Link do Google Maps;Lien Google Maps;Google-Maps-Link;Link di Google Maps;Googleマップのリンク;Enlace a Nyanogle Maps
+dialog_map_url;Enlace a Google Maps;Google Maps Link;Link do Google Maps;Lien Google Maps;Google-Maps-Link;Link di Google Maps;Googleマップのリンク;Enlace a Nyanogle Maps
+color_picker_hint;Elegir colores;Choose Colors;Escolher cores;Choisir les couleurs;Farben auswählen;Scegli i colori;色を選択;Elegir nyan-colores
+color_bg_label;Color de Fondo;Background Color;Cor de Fundo;Couleur d’arrière-plan;Hintergrundfarbe;Colore di sfondo;背景色;Color de Nyan-do
+color_text_label;Color de Texto;Text Color;Cor do Texto;Couleur du texte;Textfarbe;Colore del testo;文字色;Color de Nyan-texto
+color_selected;Color Elegido;Selected Color;Cor Selecionada;Couleur sélectionnée;Ausgewählte Farbe;Colore selezionato;選択した色;Color nyan-seleccionado
