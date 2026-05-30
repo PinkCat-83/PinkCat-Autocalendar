@@ -140,10 +140,10 @@ PinkCat AutoCalendar/
 
 ```json
 [{
-  "name": "CICCA (CIP)",
-  "acronym": "CIP",
+  "name": "Company Name",
+  "acronym": "COP",
   "locations": [
-    { "name": "Teatro - Centro Cultural Cicca", "maps_url": "https://maps.google.com/?q=..." }
+    { "name": "Company Direction", "maps_url": "https://maps.google.com/?q=..." }
   ]
 }]
 ```
