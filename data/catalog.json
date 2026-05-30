@@ -1,0 +1,68 @@
+[
+  {
+    "name": "MF0233 - Ofimática",
+    "short_name": "MF0233",
+    "total_hours": 190.0,
+    "description": "Transversal de Certificados Profesionales"
+  },
+  {
+    "name": "IFCT36 - Excel Avanzado",
+    "short_name": "Excel",
+    "total_hours": 100.0,
+    "description": "Excel Avanzado clásico"
+  },
+  {
+    "name": "IFCT45 - Competencias Digitales Básicas",
+    "short_name": "CD Básic",
+    "total_hours": 60.0,
+    "description": "Habilidades Digitales Básicas"
+  },
+  {
+    "name": "IFCT46 - Competencias Digitales Avanzadas",
+    "short_name": "CD Avanz",
+    "total_hours": 60.0,
+    "description": "Habilidades Digitales Avanzadas"
+  },
+  {
+    "name": "IFCT37 - Herramientas Web 2.0",
+    "short_name": "Web 2.0",
+    "total_hours": 100.0,
+    "description": "Colaboración y Contenidos Digitales"
+  },
+  {
+    "name": "ADGG047PO - Mecanogafía",
+    "short_name": "Meca.",
+    "total_hours": 50.0,
+    "description": "Formación Profesional de Especialidades"
+  },
+  {
+    "name": "ADGG052PO - Office W, E, A y PP",
+    "short_name": "Ofim.",
+    "total_hours": 60.0,
+    "description": "Ofimática"
+  },
+  {
+    "name": "ADGG053PO - Ofimática",
+    "short_name": "Ofim.",
+    "total_hours": 100.0,
+    "description": "Ofimática"
+  },
+  {
+    "name": "ADGG055PO - Ofimática en la nube: Google Drive",
+    "short_name": "G. Drive",
+    "total_hours": 100.0,
+    "description": "Ofimática con infraestructura Workspace"
+  },
+  {
+    "name": "Tecnologías de la Información y la Comunicación (TIC)",
+    "short_name": "TIC",
+    "total_hours": 30.0,
+    "description": "Módulo Transversal"
+  },
+  {
+    "name": "ADGG02 - NUEVOS ENTORNOS CON MICROSOFT 365",
+    "short_name": "365&Team",
+    "total_hours": 60.0,
+    "description": "Word, Excel, Power Point, Outlook, OneNote y Teams"
+  }
+]

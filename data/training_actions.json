@@ -1,0 +1,440 @@
+[
+  {
+    "name": "TIC",
+    "location": "Teatro - C\\Miguel de Cervantes",
+    "company": "CNP España (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "start_time": 8.5,
+    "end_time": 14.5,
+    "daily_hours": 6.0,
+    "total_hours": 50.0,
+    "start_date": "2025-12-29",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [
+      "2026-01-02",
+      "2025-12-31",
+      "2026-01-05"
+    ],
+    "contacts": [
+      {
+        "name": "Nieves",
+        "role": "Coordinadora",
+        "phone": "",
+        "email": "gestion5@formacionasaja.org"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_001"
+  },
+  {
+    "name": "IFCT45 - Competencias Digitales Básicas",
+    "location": "Teatro - Centro Cultural Cicca",
+    "company": "CICCA (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "start_time": 8.5,
+    "end_time": 14.5,
+    "daily_hours": 6.0,
+    "total_hours": 60.0,
+    "start_date": "2026-01-28",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Inés Bautista",
+        "role": "Coordinadora",
+        "phone": "617275128",
+        "email": "coordinacionlpa4@formacioncip.com"
+      },
+      {
+        "name": "Avelina",
+        "role": "Gestora",
+        "phone": "674952484",
+        "email": "gestion7@formacioncip.com"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_002"
+  },
+  {
+    "name": "IFCT46 - Competencias Digitales Avanzadas",
+    "location": "Teatro - Centro Cultural Cicca",
+    "company": "CICCA (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "start_time": 8.5,
+    "end_time": 14.5,
+    "daily_hours": 6.0,
+    "total_hours": 60.0,
+    "start_date": "2026-02-18",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Inés Bautista",
+        "role": "Coordinadora",
+        "phone": "617275128",
+        "email": "coordinacionlpa4@formacioncip.com"
+      },
+      {
+        "name": "Avelina",
+        "role": "Gestora",
+        "phone": "674952484",
+        "email": "gestion7@formacioncip.com"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_003"
+  },
+  {
+    "name": "IFCT36 - Excel Avanzado",
+    "location": "Teatro - Centro Cultural Cicca",
+    "company": "CICCA (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "start_time": 8.5,
+    "end_time": 14.5,
+    "daily_hours": 6.0,
+    "total_hours": 100.0,
+    "start_date": "2026-03-09",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [
+      "2026-03-20",
+      "2026-03-25"
+    ],
+    "contacts": [
+      {
+        "name": "Inés Bautista",
+        "role": "Coordinadora",
+        "phone": "617275128",
+        "email": "coordinacionlpa4@formacioncip.com"
+      },
+      {
+        "name": "Avelina",
+        "role": "Gestora",
+        "phone": "674952484",
+        "email": "gestion7@formacioncip.com"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_004"
+  },
+  {
+    "name": "IFCT45 - Competencias Digitales Básicas",
+    "location": "Teatro - Centro Cultural Cicca",
+    "company": "CICCA (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "pending": true,
+    "start_time": 8.5,
+    "end_time": 14.5,
+    "daily_hours": 6.0,
+    "total_hours": 60.0,
+    "start_date": "2026-07-28",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Inés Bautista",
+        "role": "Coordinadora",
+        "phone": "617275128",
+        "email": "coordinacionlpa4@formacioncip.com"
+      },
+      {
+        "name": "Avelina",
+        "role": "Gestora",
+        "phone": "674952484",
+        "email": "gestion7@formacioncip.com"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_005"
+  },
+  {
+    "name": "TIC",
+    "location": "Arguineguín - Playa Las Marañuelas",
+    "company": "Lupal Consultoría (Reyes)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "start_time": 8.0,
+    "end_time": 14.0,
+    "daily_hours": 6.0,
+    "total_hours": 30.0,
+    "start_date": "2026-01-19",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Francis",
+        "role": "Coordinador",
+        "phone": "649818725",
+        "email": ""
+      },
+      {
+        "name": "Dani",
+        "role": "Gestor",
+        "phone": "670680222",
+        "email": "administracion2@reyesformacion.com"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_006"
+  },
+  {
+    "name": "TIC",
+    "location": "Arguineguín - Playa Las Marañuelas",
+    "maps_url": "https://www.google.com/maps/place/Playa+Las+Mara%C3%B1uelas/@27.7600886,-15.6822658,3a,15y,290.17h,89.39t/data=!3m7!1e1!3m5!1sNIkJeT4W_galKOFVO_QUcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.6069042028113358%26panoid%3DNIkJeT4W_galKOFVO_QUcA%26yaw%3D290.1683205955379!7i16384!8i8192!4m6!3m5!1s0xc3f7dfb7dcfe179:0x1bedf0fd94632ed0!8m2!3d27.7584177!4d-15.6822207!16s%2Fg%2F11cs1dkx4_?entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+    "company": "Lupal Consultoría (Reyes)",
+    "shift": "Afternoon",
+    "modality": "presencial",
+    "pending": false,
+    "start_time": 15.0,
+    "end_time": 20.0,
+    "daily_hours": 5.0,
+    "total_hours": 25.0,
+    "start_date": "2026-01-19",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Francis",
+        "role": "Coordinador",
+        "phone": "649818725",
+        "email": ""
+      },
+      {
+        "name": "Dani",
+        "role": "Gestor",
+        "phone": "670680222",
+        "email": "administracion2@reyesformacion.com"
+      }
+    ],
+    "bg_color": "",
+    "text_color": "",
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_007"
+  },
+  {
+    "name": "IFCT36 - Excel Avanzado",
+    "location": "Tamaraceite - C\\Los Mangos",
+    "company": "Reyes Formación (Reyes)",
+    "shift": "Afternoon",
+    "modality": "presencial",
+    "start_time": 16.5,
+    "end_time": 20.5,
+    "daily_hours": 4.0,
+    "total_hours": 100.0,
+    "start_date": "2026-03-11",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [
+      "2026-03-19",
+      "2026-03-20",
+      "2026-03-24",
+      "2026-03-25"
+    ],
+    "contacts": [
+      {
+        "name": "Francis",
+        "role": "Coordinador",
+        "phone": "649818725",
+        "email": "administracion@reyesformacion.com"
+      },
+      {
+        "name": "Dani",
+        "role": "Gestor",
+        "phone": "670680222",
+        "email": "administracion2@reyesformacion.com"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_008"
+  },
+  {
+    "name": "IFCT45 - Competencias Digitales Básicas",
+    "location": "UNED - C\\Luis Doreste Silva 101",
+    "maps_url": "",
+    "company": "CNP España (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "pending": false,
+    "start_time": 9.0,
+    "end_time": 14.0,
+    "daily_hours": 5.0,
+    "total_hours": 60.0,
+    "start_date": "2026-05-04",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Beatriz",
+        "role": "Coordinadora",
+        "phone": "",
+        "email": "coordinacionlpa3@formacioncip.com"
+      },
+      {
+        "name": "Azahara",
+        "role": "Gestión",
+        "phone": "",
+        "email": "gestion11@formacioncip.com"
+      }
+    ],
+    "bg_color": "#B8F0D4",
+    "text_color": "#000000",
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_009"
+  },
+  {
+    "name": "IFCT46 - Competencias Digitales Avanzadas",
+    "location": "Teatro - C\\Miguel de Cervantes",
+    "maps_url": "https://www.google.es/index.html",
+    "company": "ASAJA (CIP)",
+    "shift": "Morning",
+    "modality": "presencial",
+    "pending": false,
+    "start_time": 8.5,
+    "end_time": 13.5,
+    "daily_hours": 5.0,
+    "total_hours": 60.0,
+    "start_date": "2026-06-02",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Zayra García",
+        "role": "Coordinadora",
+        "phone": "",
+        "email": "coordinacion2@formacionasaja.org"
+      }
+    ],
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_010"
+  },
+  {
+    "name": "ADGG02 - NUEVOS ENTORNOS CON MICROSOFT 365",
+    "location": "Teatro - C\\Miguel de Cervantes",
+    "maps_url": "https://www.google.com/maps/place/C.+Miguel+de+Cervantes,+3,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.1047089,-15.4136226,3a,36.1y,2h,93.1t/data=!3m7!1e1!3m5!1sxcEwJ90Nifshv45k1kvxCw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-3.1035298083753133%26panoid%3DxcEwJ90Nifshv45k1kvxCw%26yaw%3D2.00302848511204!7i16384!8i8192!4m6!3m5!1s0xc40958f3c79a229:0xee98c3df46451456!8m2!3d28.10488!4d-15.41378!16s%2Fg%2F11c2byn9wq?entry=ttu&g_ep=EgoyMDI2MDUyNS4wIKXMDSoASAFQAw%3D%3D",
+    "company": "ASAJA (CIP)",
+    "shift": "Afternoon",
+    "modality": "teleformacion",
+    "pending": false,
+    "start_time": 16.0,
+    "end_time": 20.0,
+    "daily_hours": 4.0,
+    "total_hours": 60.0,
+    "start_date": "2026-06-23",
+    "teaching_days": {
+      "monday": true,
+      "tuesday": true,
+      "wednesday": true,
+      "thursday": true,
+      "friday": true,
+      "saturday": false,
+      "sunday": false
+    },
+    "specific_holidays": [],
+    "contacts": [
+      {
+        "name": "Zayra García",
+        "role": "Coordinadora",
+        "phone": "",
+        "email": "coordinacion2@formacionasaja.org"
+      }
+    ],
+    "bg_color": "",
+    "text_color": "",
+    "rate_per_hour": 0.0,
+    "withholding_pct": 0.0,
+    "id": "course_011"
+  }
+]

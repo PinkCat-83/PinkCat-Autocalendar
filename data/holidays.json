@@ -1,0 +1,435 @@
+{
+    "2019": 
+    [
+        {
+            "date": "2019-01-01",
+            "name": "Año Nuevo"
+        },
+        {
+            "date": "2019-01-07",
+            "name": "Lunes posterior a la festividad del 6 enero, Epifanía del Señor"
+        },
+        {
+            "date": "2019-04-18",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2019-04-19",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2019-05-01",
+            "name": "Día del Trabajador"
+        },
+        {
+            "date": "2019-05-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2019-08-15",
+            "name": "Asunción de la Virgen"
+        },
+        {
+            "date": "2019-09-09",
+            "name": "Lunes posterior a la festividad de Nuestra Sra. Del Pino"
+        },
+        {
+            "date": "2019-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2019-11-01",
+            "name": "Día de Todos los Santos"
+        },
+        {
+            "date": "2019-12-06",
+            "name": "Día de la Constitución"
+        },
+        {
+            "date": "2019-12-25",
+            "name": "Navidad"
+        }
+    ],
+    "2020": 
+    [
+        {
+            "date": "2020-01-01",
+            "name": "Año Nuevo"
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Epifanía del Señor"
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Día del Trabajador"
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Asunción de la Virgen"
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Nuestra Sra. Del Pino"
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Lunes previo a la Inmaculada Concepción"
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Inmaculada Concepción"
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Navidad"
+        }
+    ],
+    "2021": 
+    [
+        {
+            "date": "2021-01-01",
+            "name": "Año Nuevo"
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Epifanía del Señor"
+        },
+        {
+            "date": "2021-04-01",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2021-04-02",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2021-05-01",
+            "name": "Día del Trabajador"
+        },
+        {
+            "date": "2021-08-16",
+            "name": "Descanso laboral correspondiente a festividad Asunción de la Virgen"
+        },
+        {
+            "date": "2021-09-08",
+            "name": "Festividad de Nuestra Sra. Del Pino"
+        },
+        {
+            "date": "2021-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2021-11-01",
+            "name": "Día de Todos los Santos"
+        },
+        {
+            "date": "2021-12-06",
+            "name": "Día de la Constitución"
+        },
+        {
+            "date": "2021-12-08",
+            "name": "Inmaculada Concepción"
+        },
+        {
+            "date": "2021-12-25",
+            "name": "Navidad"
+        }
+    ],
+    "2022": 
+    [
+        {
+            "date": "2022-01-01",
+            "name": "Año Nuevo"
+        },
+        {
+            "date": "2022-01-06",
+            "name": "Epifanía del Señor"
+        },
+        {
+            "date": "2022-04-14",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2022-04-15",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2022-03-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2022-08-15",
+            "name": "Festividad Asunción de la Virgen"
+        },
+        {
+            "date": "2022-09-08",
+            "name": "Festividad de Nuestra Sra. Del Pino"
+        },
+        {
+            "date": "2022-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2022-11-01",
+            "name": "Día de Todos los Santos"
+        },
+        {
+            "date": "2022-12-06",
+            "name": "Día de la Constitución"
+        },
+        {
+            "date": "2022-12-08",
+            "name": "Inmaculada Concepción"
+        },
+        {
+            "date": "2022-12-26",
+            "name": "Corresponde a la Festividad de la Navidad"
+        }
+    ],
+    "2023": 
+    [
+        {
+            "date": "2023-01-06",
+            "name": "Epifanía del Señor"
+        },
+        {
+            "date": "2023-02-21",
+            "name": "Carnaval"
+        },
+        {
+            "date": "2023-04-06",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2023-04-07",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2023-05-01",
+            "name": "Fiesta del Trabajo"
+        },
+        {
+            "date": "2023-05-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2023-06-24",
+            "name": "San Juan"
+        },
+        {
+            "date": "2023-08-15",
+            "name": "Festividad de la Asunción de la Virgen"
+        },
+        {
+            "date": "2023-09-08",
+            "name": "Virgen del Pino"
+        },
+        {
+            "date": "2023-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2023-11-01",
+            "name": "Fiesta de Todos los Santos"
+        },
+        {
+            "date": "2023-12-06",
+            "name": "Día de la Constitución Española"
+        },
+        {
+            "date": "2023-12-08",
+            "name": "Inmaculada Concepción"
+        },
+        {
+            "date": "2023-12-25",
+            "name": "Natividad del Señor"
+        }
+    ],
+    "2024": 
+    [
+        {
+            "date": "2024-01-01",
+            "name": "Año Nuevo"
+        },
+        {
+            "date": "2024-01-06",
+            "name": "Epifanía del Señor"
+        },
+        {
+            "date": "2024-03-28",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2024-03-29",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2024-05-01",
+            "name": "Fiesta del Trabajo"
+        },
+        {
+            "date": "2024-05-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2024-08-05",
+            "name": "Virgen de las Nieves"
+        },
+        {
+            "date": "2024-08-15",
+            "name": "Festividad de la Asunción de la Virgen"
+        },
+        {
+            "date": "2024-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2024-11-01",
+            "name": "Fiesta de Todos los Santos"
+        },
+        {
+            "date": "2024-12-06",
+            "name": "Día de la Constitución Española"
+        },
+        {
+            "date": "2024-12-25",
+            "name": "Natividad del Señor"
+        }
+    ],
+    "2025": 
+    [
+        {
+            "date": "2025-01-01",
+            "name": "Año Nuevo"
+        },
+        {
+            "date": "2025-01-06",
+            "name": "Epifanía del Señor"
+        },
+        {
+            "date": "2025-03-04",
+            "name": "Martes de Carnaval"
+        },
+        {
+            "date": "2025-04-17",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2025-04-18",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2025-05-01",
+            "name": "Fiesta del Trabajo"
+        },
+        {
+            "date": "2025-05-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2025-06-24",
+            "name": "San Juan"
+        },
+        {
+            "date": "2025-07-25",
+            "name": "Santiago Apóstol"
+        },
+        {
+            "date": "2025-08-15",
+            "name": "Festividad de la Asunción de la Virgen"
+        },
+        {
+            "date": "2025-11-01",
+            "name": "Fiesta de Todos los Santos"
+        },
+        {
+            "date": "2025-12-06",
+            "name": "Día de la Constitución Española"
+        },
+        {
+            "date": "2025-12-08",
+            "name": "Inmaculada Concepción"
+        },
+        {
+            "date": "2025-12-25",
+            "name": "Natividad del Señor"
+        }
+    ],
+    "2026": 
+    [
+        {
+            "date": "2026-01-01",
+            "name": "Año nuevo"
+        },
+        {
+            "date": "2026-01-06",
+            "name": "Día de Reyes"
+        },
+        {
+            "date": "2026-02-17",
+            "name": "Martes de Carnaval"
+        },
+        {
+            "date": "2026-04-02",
+            "name": "Jueves Santo"
+        },
+        {
+            "date": "2026-04-03",
+            "name": "Viernes Santo"
+        },
+        {
+            "date": "2026-05-01",
+            "name": "Día del trabajador"
+        },
+        {
+            "date": "2026-05-30",
+            "name": "Día de Canarias"
+        },
+        {
+            "date": "2026-06-24",
+            "name": "San Juan / Fiestas Fundacionales"
+        },
+        {
+            "date": "2026-08-15",
+            "name": "Asunción de la Virgen"
+        },
+        {
+            "date": "2026-09-08",
+            "name": "Nuestra Señora del Pino"
+        },
+        {
+            "date": "2026-10-12",
+            "name": "Fiesta Nacional de España"
+        },
+        {
+            "date": "2026-11-02",
+            "name": "Lunes posterior a Todos los Santos"
+        },
+        {
+            "date": "2026-12-08",
+            "name": "Inmaculada Concepción"
+        },
+        {
+            "date": "2026-12-25",
+            "name": "Natividad del Señor"
+        }
+    ],
+    "_note": "Public holidays for Las Palmas de Gran Canaria. Includes national, Canarian regional, and local holidays."
+}
