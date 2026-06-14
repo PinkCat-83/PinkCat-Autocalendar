@@ -377,7 +377,7 @@
     "end_time": 13.5,
     "daily_hours": 5.0,
     "total_hours": 60.0,
-    "start_date": "2026-06-02",
+    "start_date": "2026-06-04",
     "teaching_days": {
       "monday": true,
       "tuesday": true,
@@ -387,7 +387,9 @@
       "saturday": false,
       "sunday": false
     },
-    "specific_holidays": [],
+    "specific_holidays": [
+      "2026-06-11"
+    ],
     "contacts": [
       {
         "name": "Zayra García",
@@ -396,6 +398,8 @@
         "email": "coordinacion2@formacionasaja.org"
       }
     ],
+    "bg_color": "",
+    "text_color": "",
     "rate_per_hour": 0.0,
     "withholding_pct": 0.0,
     "id": "course_010"
